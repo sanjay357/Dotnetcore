@@ -1,0 +1,35 @@
+2020-11-23 10:07:09.9020||DEBUG|Webapi_project_1.Program|init main |url: |action: 
+2020-11-23 10:07:22.6591||INFO|Webapi_project_1.Controllers.EmployeeController|geting  all Employees |url: https://localhost/api/Employee|action: Get
+2020-11-23 10:12:54.0986||DEBUG|Webapi_project_1.Program|init main |url: |action: 
+2020-11-23 10:13:14.8316||WARN|Webapi_project_1.Controllers.EmployeeController|Employee With Id- 1 not found |url: https://localhost/api/Employee/1|action: Get
+2020-11-23 10:13:14.8316||ERROR|Webapi_project_1.Controllers.EmployeeController|This is an error |url: https://localhost/api/Employee/1|action: Get
+2020-11-23 10:16:12.9845||DEBUG|Webapi_project_1.Program|init main |url: |action: 
+2020-11-23 10:16:35.1159||DEBUG|Webapi_project_1.Program|init main |url: |action: 
+2020-11-23 10:16:59.3859||INFO|Webapi_project_1.Controllers.EmployeeController|geting  all Employees |url: https://localhost/api/Employee|action: Get
+2020-11-23 10:18:47.8656||DEBUG|Webapi_project_1.Program|init main |url: |action: 
+2020-11-23 10:20:00.4873||DEBUG|Webapi_project_1.Program|init main |url: |action: 
+2020-11-23 10:20:13.7918||INFO|Webapi_project_1.Controllers.EmployeeController|geting  all Employees |url: https://localhost/api/Employee|action: Get
+2020-11-23 10:21:50.4552||WARN|Webapi_project_1.Controllers.EmployeeController|Employee With Id- 1 not found |url: https://localhost/api/Employee/1|action: Get
+2020-11-23 10:21:50.4552||ERROR|Webapi_project_1.Controllers.EmployeeController|This is an error |url: https://localhost/api/Employee/1|action: Get
+2020-11-23 10:32:02.0031||DEBUG|Webapi_project_1.Program|init main |url: |action: 
+2020-11-23 10:32:05.3811||INFO|Webapi_project_1.Controllers.EmployeeController|geting  all Employees |url: https://localhost/api/Employee|action: Get
+2020-11-23 10:34:45.8091||DEBUG|Webapi_project_1.Program|init main |url: |action: 
+2020-11-23 10:34:48.2965||INFO|Webapi_project_1.Controllers.LoginController|get |url: https://localhost/api/Login|action: Get
+2020-11-23 10:37:54.4937||DEBUG|Webapi_project_1.Program|init main |url: |action: 
+2020-11-23 10:37:56.8326||INFO|Webapi_project_1.Controllers.LoginController|get |url: https://localhost/api/Login|action: Get
+2020-11-23 10:40:03.1624||DEBUG|Webapi_project_1.Program|init main |url: |action: 
+2020-11-23 10:40:05.5418||INFO|Webapi_project_1.Controllers.LoginController|get |url: https://localhost/api/Login|action: Get
+2020-11-23 10:40:23.6558||INFO|Webapi_project_1.Controllers.EmployeeController|geting  all Employees |url: https://localhost/api/Employee|action: Get
+2020-11-23 10:45:36.5237||DEBUG|Webapi_project_1.Program|init main function |url: |action: 
+2020-11-23 10:45:39.2277||INFO|Webapi_project_1.Controllers.LoginController|get |url: https://localhost/api/Login|action: Get
+2020-11-23 10:46:32.1258||DEBUG|Webapi_project_1.Program|init main function |url: |action: 
+2020-11-23 10:46:34.5646||INFO|Webapi_project_1.Controllers.LoginController|get |url: https://localhost/api/Login|action: Get
+2020-11-23 10:47:16.2237||DEBUG|Webapi_project_1.Program|init main function |url: |action: 
+2020-11-23 10:47:18.5239||INFO|Webapi_project_1.Controllers.LoginController|get |url: https://localhost/api/Login|action: Get
+2020-11-23 10:48:59.6416||DEBUG|Webapi_project_1.Program|init main function |url: |action: 
+2020-11-23 10:49:02.1853||INFO|Webapi_project_1.Controllers.LoginController|get |url: https://localhost/api/Login|action: Get
+2020-11-23 10:49:49.8045||DEBUG|Webapi_project_1.Program|init main function |url: |action: 
+2020-11-23 10:49:52.5860||INFO|Webapi_project_1.Controllers.LoginController|get |url: https://localhost/api/Login|action: Get
+2020-11-23 11:50:38.9053||DEBUG|Webapi_project_1.Program|init main function |url: |action: 
+2020-11-23 11:50:42.3674||INFO|Webapi_project_1.Controllers.LoginController|get |url: https://localhost/api/Login|action: Get
+2020-11-23 11:51:29.9337||INFO|Webapi_project_1.Controllers.EmployeeController|geting  all Employees |url: https://localhost/api/Employee|action: Get

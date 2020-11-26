@@ -1,0 +1,5 @@
+2020-11-21 14:58:06.0265||DEBUG|Webapi_project_1.Program|init main function 
+2020-11-21 14:58:08.9271||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-21 14:58:08.9271||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-21 14:58:08.9563||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-21 14:59:06.0654||INFO|Webapi_project_1.Controllers.EmployeeController|geting  all Employees 

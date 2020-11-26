@@ -1,0 +1,80 @@
+2020-11-23 10:07:09.9020||DEBUG|Webapi_project_1.Program|init main 
+2020-11-23 10:07:12.9265||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:07:12.9308||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:07:12.9447||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-23 10:07:22.6591||INFO|Webapi_project_1.Controllers.EmployeeController|geting  all Employees 
+2020-11-23 10:12:54.0986||DEBUG|Webapi_project_1.Program|init main 
+2020-11-23 10:12:56.0670||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:12:56.0670||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:12:56.0866||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-23 10:13:14.8316||WARN|Webapi_project_1.Controllers.EmployeeController|Employee With Id- 1 not found 
+2020-11-23 10:13:14.8316||ERROR|Webapi_project_1.Controllers.EmployeeController|This is an error 
+2020-11-23 10:16:12.9845||DEBUG|Webapi_project_1.Program|init main 
+2020-11-23 10:16:35.1159||DEBUG|Webapi_project_1.Program|init main 
+2020-11-23 10:16:37.2683||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:16:37.2683||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:16:37.2846||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-23 10:16:59.3859||INFO|Webapi_project_1.Controllers.EmployeeController|geting  all Employees 
+2020-11-23 10:18:47.8656||DEBUG|Webapi_project_1.Program|init main 
+2020-11-23 10:18:50.2293||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:18:50.2293||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:18:50.2497||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-23 10:20:00.4873||DEBUG|Webapi_project_1.Program|init main 
+2020-11-23 10:20:02.9444||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:20:02.9444||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:20:02.9595||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-23 10:20:13.7918||INFO|Webapi_project_1.Controllers.EmployeeController|geting  all Employees 
+2020-11-23 10:21:50.4552||WARN|Webapi_project_1.Controllers.EmployeeController|Employee With Id- 1 not found 
+2020-11-23 10:21:50.4552||ERROR|Webapi_project_1.Controllers.EmployeeController|This is an error 
+2020-11-23 10:32:02.0031||DEBUG|Webapi_project_1.Program|init main 
+2020-11-23 10:32:04.7605||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:32:04.7605||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:32:04.7864||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-23 10:32:05.3811||INFO|Webapi_project_1.Controllers.EmployeeController|geting  all Employees 
+2020-11-23 10:34:45.8091||DEBUG|Webapi_project_1.Program|init main 
+2020-11-23 10:34:48.1561||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:34:48.1599||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:34:48.1770||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-23 10:34:48.2965||INFO|Webapi_project_1.Controllers.LoginController|get 
+2020-11-23 10:37:54.4937||DEBUG|Webapi_project_1.Program|init main 
+2020-11-23 10:37:56.6945||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:37:56.6945||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:37:56.7181||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-23 10:37:56.8326||INFO|Webapi_project_1.Controllers.LoginController|get 
+2020-11-23 10:40:03.1624||DEBUG|Webapi_project_1.Program|init main 
+2020-11-23 10:40:05.4368||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:40:05.4436||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:40:05.4436||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-23 10:40:05.5418||INFO|Webapi_project_1.Controllers.LoginController|get 
+2020-11-23 10:40:23.6558||INFO|Webapi_project_1.Controllers.EmployeeController|geting  all Employees 
+2020-11-23 10:45:36.5237||DEBUG|Webapi_project_1.Program|init main function 
+2020-11-23 10:45:39.0929||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:45:39.0929||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:45:39.1154||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-23 10:45:39.2277||INFO|Webapi_project_1.Controllers.LoginController|get 
+2020-11-23 10:46:32.1258||DEBUG|Webapi_project_1.Program|init main function 
+2020-11-23 10:46:34.4465||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:46:34.4529||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:46:34.4663||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-23 10:46:34.5646||INFO|Webapi_project_1.Controllers.LoginController|get 
+2020-11-23 10:47:16.2237||DEBUG|Webapi_project_1.Program|init main function 
+2020-11-23 10:47:18.4175||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:47:18.4175||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:47:18.4360||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-23 10:47:18.5239||INFO|Webapi_project_1.Controllers.LoginController|get 
+2020-11-23 10:48:59.6416||DEBUG|Webapi_project_1.Program|init main function 
+2020-11-23 10:49:02.0601||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:49:02.0601||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:49:02.0832||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-23 10:49:02.1853||INFO|Webapi_project_1.Controllers.LoginController|get 
+2020-11-23 10:49:49.8045||DEBUG|Webapi_project_1.Program|init main function 
+2020-11-23 10:49:52.4313||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 10:49:52.4419||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 10:49:52.4635||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-23 10:49:52.5860||INFO|Webapi_project_1.Controllers.LoginController|get 
+2020-11-23 11:50:38.9053||DEBUG|Webapi_project_1.Program|init main function 
+2020-11-23 11:50:42.1746||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-23 11:50:42.1976||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-23 11:50:42.2198||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1 
+2020-11-23 11:50:42.3674||INFO|Webapi_project_1.Controllers.LoginController|get 
+2020-11-23 11:51:29.9337||INFO|Webapi_project_1.Controllers.EmployeeController|geting  all Employees 

@@ -1,0 +1,2 @@
+2020-11-21 14:58:06.0265||DEBUG|Webapi_project_1.Program|init main function |url: |action: 
+2020-11-21 14:59:06.0654||INFO|Webapi_project_1.Controllers.EmployeeController|geting  all Employees |url: https://localhost/api/Employee|action: Get

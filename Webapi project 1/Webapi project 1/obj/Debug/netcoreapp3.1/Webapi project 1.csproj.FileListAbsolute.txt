@@ -1,0 +1,45 @@
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\obj\Debug\netcoreapp3.1\Webapi project 1.AssemblyInfoInputs.cache
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\obj\Debug\netcoreapp3.1\Webapi project 1.AssemblyInfo.cs
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Webapi project 1.exe
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Webapi project 1.deps.json
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Webapi project 1.runtimeconfig.json
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Webapi project 1.runtimeconfig.dev.json
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Webapi project 1.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Webapi project 1.pdb
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Couchbase.Extensions.DependencyInjection.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Couchbase.NetClient.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Couchbase.Linq.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.OData.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Microsoft.OData.Core.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Microsoft.OData.Edm.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Microsoft.Spatial.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\obj\Debug\netcoreapp3.1\Webapi project 1.RazorTargetAssemblyInfo.cache
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\obj\Debug\netcoreapp3.1\Webapi project 1.csproj.CopyComplete
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\obj\Debug\netcoreapp3.1\staticwebassets\Webapi project 1.StaticWebAssets.Manifest.cache
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\obj\Debug\netcoreapp3.1\staticwebassets\Webapi project 1.StaticWebAssets.xml
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\obj\Debug\netcoreapp3.1\Webapi project 1.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\obj\Debug\netcoreapp3.1\Webapi project 1.pdb
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\obj\Debug\netcoreapp3.1\Webapi project 1.genruntimeconfig.cache
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\nlog.config
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\obj\Debug\netcoreapp3.1\Webapi project 1.csprojAssemblyReference.cache
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\obj\Debug\netcoreapp3.1\Webapi project 1.csproj.CoreCompileInputs.cache
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\obj\Debug\netcoreapp3.1\Webapi project 1.MvcApplicationPartsAssemblyInfo.cs
+C:\Programs\files\webapiproject\Webapi project 1\Webapi project 1\obj\Debug\netcoreapp3.1\Webapi project 1.MvcApplicationPartsAssemblyInfo.cache
